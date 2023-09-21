@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning automation testing with playwright and Cypress, and I'll learn CI/CD
 - 💞️ I’m looking to collaborate on Automation Testing projects
-- 📫 How to reach me can you send me a message to ajvsubotich@gmail.com or write me on Discord.
+- 📫 How to reach me can you send me a message to ajvsubotich@gmail.com or write me on Discord by ajvsubotich.
 
   I'm looking for a community to improve my english and why not, teach you Spanish my Native Languaje.
 

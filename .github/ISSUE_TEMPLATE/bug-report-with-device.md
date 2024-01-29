@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug report with device
+about: Bug report template with device
 title: ''
 labels: bug
 assignees: ''
@@ -28,12 +28,12 @@ assignees: ''
 
 
 
-### **Escritorio (por favor complete la siguiente información):**
+### :computer: **Escritorio (por favor complete la siguiente información):**
  - OS: [ej. iOS]
  - Browser [ej. chrome, safari]
  - Versión [ej. 22]
 
-### **Dispositivo movil (por favor complete la siguiente información):**
+### :iphone: **Dispositivo movil (por favor complete la siguiente información):**
  - Device: [ej. iPhone6]
  - OS: [ej. iOS8.1]
  - Browser [ej. stock browser, safari]
